@@ -11,5 +11,6 @@
     }
   ],
   "name": "Lista de Compras",
-  "short_name": "Merquemos"
+  "short_name": "Merquemos",
+  "start_url": "/index.html"
 }
