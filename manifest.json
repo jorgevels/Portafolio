@@ -1,16 +1,15 @@
 {
-  "background_color": "#6fb9be",
-  "theme_color": "#f7f385",
-  "description": "Crea tu lista de compras en tu movil",
-  "display": "standalone",
-  "icons": [
+  " nombre_corto ": " Reaccionar aplicación ",
+  " name ": " Crear muestra de aplicación React ",
+  " iconos ": [
     {
-      "src": "favicon.ico",
-      "sizes": "512x512",
-      "type": "image/ico"
+      " src ": " favicon.ico ",
+      " tamaños ": " 64x64 32x32 24x24 16x16 ",
+      " type ": " image / x-icon "
     }
   ],
-  "name": "Lista de Compras",
-  "short_name": "Merquemos",
-  "start_url": "/Merquemos/index.html"
+  " start_url ": " . ",
+  " display ": " independiente ",
+  " theme_color ": " # 000000 ",
+  " background_color ": " #ffffff "
 }
