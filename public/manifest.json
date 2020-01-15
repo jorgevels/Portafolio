@@ -1,7 +1,7 @@
 {
   "background_color": "#6fb9be",
   "theme_color": "#f7f385",
-  "description": "Crea tu lista de compras en tu movil",
+  "description": "Portapolio profesional",
   "display": "standalone",
   "icons": [
     {
@@ -10,7 +10,7 @@
       "type": "image/png"
     }
   ],
-  "name": "Lista de Compras",
-  "short_name": "Merquemos",
-  "start_url": "/index.html"
+  "name": "Portafolio CV",
+  "short_name": "Portafolio",
+  "start_url": ".*./index.html"
 }
