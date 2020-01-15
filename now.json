@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "name": "Portafolio",
+  "name": "Portafoliojv",
   "builds": [
     {
       "use": "@now/static-build",
@@ -11,6 +11,10 @@
     {
       "src": "(.*).js",
       "dest": "/$1.js"
+    },
+    {
+      "src": "(.*).css",
+      "dest": "/$1.css"
     },
     {
       "src": "(.*).png",

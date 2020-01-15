@@ -105,7 +105,7 @@ class Projects extends Component {
                 textAlign: "center"
               }}
             >
-              <Button href="https://simcro.co" colored>
+              <Button href="" colored>
                 GitHub
               </Button>
               <i
@@ -154,7 +154,7 @@ class Projects extends Component {
                 textAlign: "center"
               }}
             >
-              <Button href="https://jorgevels.github.io/Merquemos/" colored>
+              <Button href="" colored>
                 GitHub
               </Button>
               <i

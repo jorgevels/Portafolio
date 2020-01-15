@@ -18,7 +18,7 @@ class About extends Component {
                 de las fuerzas Militares de Colombia y actualemtne me encuentro
                 en el proceso de (PPR-2019) Retiro asistido 2019, el cual lo he
                 aprovechado al maximo con una suscripcion Expert en Platzi.
-                Nunca parar de Apremder
+                "Nunca pares de Apremder"
               </p>
             </div>
           </Cell>
@@ -60,7 +60,7 @@ class About extends Component {
           </Cell>
           <Cell col={5}>
             <div className="acerca-me-tres">
-              <h4>Nunca Parar de Aprender</h4>
+              <h4>Nunca Pares de Aprender</h4>
 
               <p style={{ fontFamily: "Lato" }}>
                 Soy un apacionado por el aprendizaje continuo, me gusta
@@ -70,7 +70,7 @@ class About extends Component {
                 <br /> El aprendizaje no debería acabarse cuando finalizas un
                 “ciclo académico”, cuando acabas el colegio o terminas la
                 universidad. Hoy más que nunca necesitamos leer, escuchar,
-                debatir, crear con lo que aprendemos cada día.
+                debatir, y crear con lo que aprendemos cada día.
               </p>
             </div>
           </Cell>

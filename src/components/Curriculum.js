@@ -63,8 +63,8 @@ class Resume extends Component {
               >
                 Mi nombre es Jorge, soy Frontend Developer y vivo en la ciudad
                 de Medellin. Soy un apacionado por la programación, una de mis
-                metas es cada dia aprender algo nuevo en React; es una libreria
-                esquisita y quiero aprender a nominar cada una de sus
+                metas es cada dia aprender algo nuevo en React; esta es una
+                libreria esquisita y quiero aprender a nominar cada una de sus
                 propiedades, actualmente me encuentro desarrollando la Carrera
                 de Frontend con React en Platzi.
               </p>
