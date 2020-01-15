@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "25dd5a5d554145d0949c",
-    "url": "/static/css/main.d1e1e516.chunk.css"
+    "revision": "c64ecfd0148d53cb44fb",
+    "url": "/static/css/main.c8218ed3.chunk.css"
   },
   {
-    "revision": "25dd5a5d554145d0949c",
-    "url": "/static/js/main.25dd5a5d.chunk.js"
+    "revision": "c64ecfd0148d53cb44fb",
+    "url": "/static/js/main.c64ecfd0.chunk.js"
   },
   {
     "revision": "36b6d29831b773adadcd",
@@ -56,15 +56,15 @@ self.__precacheManifest = [
     "url": "/static/media/pokemon.74a997f8.png"
   },
   {
-    "revision": "5d5d9eefa31e5e13a6610d9fa7a283bb",
-    "url": "/static/media/logo.5d5d9eef.svg"
+    "revision": "ee7cd8ed2dcec943251eb2763684fc6f",
+    "url": "/static/media/logo.ee7cd8ed.svg"
   },
   {
     "revision": "1d17360a685ac86023b90aa14fd2c62d",
     "url": "/static/media/stars.1d17360a.svg"
   },
   {
-    "revision": "a3793fc65dcf1f14d28498fb977ec478",
+    "revision": "eb01b36822f47691d1333000b0969dd8",
     "url": "/index.html"
   }
 ];

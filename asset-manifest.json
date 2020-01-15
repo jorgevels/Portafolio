@@ -1,7 +1,7 @@
 {
-  "main.css": "/static/css/main.d1e1e516.chunk.css",
-  "main.js": "/static/js/main.25dd5a5d.chunk.js",
-  "main.js.map": "/static/js/main.25dd5a5d.chunk.js.map",
+  "main.css": "/static/css/main.c8218ed3.chunk.css",
+  "main.js": "/static/js/main.c64ecfd0.chunk.js",
+  "main.js.map": "/static/js/main.c64ecfd0.chunk.js.map",
   "static/css/1.5a7fb6b2.chunk.css": "/static/css/1.5a7fb6b2.chunk.css",
   "static/js/1.36b6d298.chunk.js": "/static/js/1.36b6d298.chunk.js",
   "static/js/1.36b6d298.chunk.js.map": "/static/js/1.36b6d298.chunk.js.map",
@@ -16,11 +16,11 @@
   "static/media/merquemos.png": "/static/media/merquemos.63e462ce.png",
   "static/media/storecats.png": "/static/media/storecats.ab7c74d1.png",
   "static/media/pokemon.png": "/static/media/pokemon.74a997f8.png",
-  "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg",
+  "static/media/logo.svg": "/static/media/logo.ee7cd8ed.svg",
   "static/media/App.css": "/static/media/stars.1d17360a.svg",
-  "static/css/main.d1e1e516.chunk.css.map": "/static/css/main.d1e1e516.chunk.css.map",
+  "static/css/main.c8218ed3.chunk.css.map": "/static/css/main.c8218ed3.chunk.css.map",
   "static/css/1.5a7fb6b2.chunk.css.map": "/static/css/1.5a7fb6b2.chunk.css.map",
   "index.html": "/index.html",
-  "precache-manifest.249ed0e030becdc9a2f4f1cf31d70661.js": "/precache-manifest.249ed0e030becdc9a2f4f1cf31d70661.js",
+  "precache-manifest.18018917c1aa51fc594e15e4d58d5b03.js": "/precache-manifest.18018917c1aa51fc594e15e4d58d5b03.js",
   "service-worker.js": "/service-worker.js"
 }

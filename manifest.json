@@ -1,15 +1,16 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "background_color": "#6fb9be",
+  "theme_color": "#f7f385",
+  "description": "Crea tu lista de compras en tu movil",
+  "display": "standalone",
   "icons": [
     {
       "src": "favicon.ico",
-      "sizes": "64x64 32x32 24x24 16x16",
-      "type": "image/x-icon"
+      "sizes": "512x512",
+      "type": "image/ico"
     }
   ],
-  "start_url": ".",
-  "display": "standalone",
-  "theme_color": "#000000",
-  "background_color": "#ffffff"
+  "name": "Lista de Compras",
+  "short_name": "Merquemos",
+  "start_url": "/Merquemos/index.html"
 }
